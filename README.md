@@ -13,8 +13,11 @@ To filter the table at the bottom of the webpage, simply type in the criteria yo
 ![](static/images/anchorage.png)
 
 ## Summary:
-In a summary statement, describe one drawback of this new design and 
-two recommendations for further development.
 
+This website has been updated to add more filters for inquiries to the table. city, state, country, and shape filter options have been added. A drawback of this design is that 
+
+Recommendations for further website development:
+- When the filters are used, a number should pop up showing how many entries fit the criteria. 
+- 
 
 
