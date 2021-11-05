@@ -8,7 +8,7 @@ This is what the page currently looks like.
 
 ![](static/images/page.png)
 
-To filter the table at the bottom of the webpage, simply type in the criteria you with to filter. The results of typing in *anchorage* in the city table are below.
+To filter the table at the bottom of the webpage, simply type in the criteria you wish to filter, and click anywhere on the page outside of the typing box you used. The results of typing in *anchorage* in the city table are below.
 
 ![](static/images/anchorage.png)
 
