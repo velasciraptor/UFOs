@@ -18,4 +18,4 @@ This website has been updated to add more filters for inquiries to the table. ci
 
 ### Recommendations for further website development:
 - When the filters are used, a number should pop up showing how many entries fit the criteria. 
-- The date filter only accepts the formatting give. (1/10/2012) I order to help correct any user mistakes, a small calender icon could be added that expands when clicked so the user can select a date that will autofill the correct way.
+- The date filter only accepts the date formatting show in these parenthesis (1/10/2012). In order to help correct any user mistakes, a small calender icon could be added that expands when clicked so the user can select a date that will autofill the correct way.
